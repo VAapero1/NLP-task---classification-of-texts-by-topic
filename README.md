@@ -1,1 +1,1 @@
-# NLP-task---classification-of-texts-by-topic
+# NLP-task-classification-of-texts-by-topic
